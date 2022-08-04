@@ -1,4 +1,4 @@
-# Archer A7(US)_V5_210519 tmpServer integer overflow vulnerability
+# Archer A7(US)_V5_210519 tmpServer integer overflow
 
 TP-Link Archer A7 AC1750 Firmware: Archer A7(US)_V5_210519 is affected by an integer overflow vulnerability. This vulnerability is fixed in Archer A7(US)_V5_211022.
 
